@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "React Todo App",
+    "repoLink": "https://github.com/tastejs/todomvc",
+    "demoLink": "https://todomvc.com/examples/react/dist/",
+    "description": "A React-based task management application demonstrating CRUD operations, state management, and component-based architecture."
+  },
+  {
+    "id": 2,
+    "title": "Weather App",
+    "repoLink": "https://github.com/brianlorenz/react-weather-app",
+    "demoLink": "https://react-weather-app-five.vercel.app/",
+    "description": "A weather forecasting application that fetches real-time weather data from external APIs and displays current conditions and forecasts."
+  },
+  {
+    "id": 3,
+    "title": "Expense Tracker",
+    "repoLink": "https://github.com/ashutosh1919/react-expense-tracker",
+    "demoLink": "https://react-expense-tracker-ten.vercel.app/",
+    "description": "An expense management application that allows users to track income, expenses, and overall financial health."
+  },
+  {
+    "id": 4,
+    "title": "Netflix Clone",
+    "repoLink": "https://github.com/CleverProgrammers/netflix-clone",
+    "demoLink": "https://netflix-clone-4f0c5.web.app/",
+    "description": "A Netflix-inspired streaming platform UI built with React, featuring movie browsing and responsive design."
+  },
+  {
+    "id": 5,
+    "title": "E-Commerce Store",
+    "repoLink": "https://github.com/benawad/react-shopping-cart",
+    "demoLink": "https://react-shopping-cart-67954.firebaseapp.com/",
+    "description": "A shopping cart application showcasing product listings, cart functionality, and checkout flow."
+  },
+  {
+    "id": 6,
+    "title": "Chat Application",
+    "repoLink": "https://github.com/chat-engine/chat-engine-react",
+    "demoLink": "https://chat-engine.io/",
+    "description": "A real-time chat platform with messaging functionality, user authentication, and modern UI components."
+  }
+]

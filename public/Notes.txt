@@ -1,0 +1,245 @@
+# Bhumika Ladi
+
+## Professional Summary
+
+BCA Graduate (CGPA 9.3) with a strong passion for Software Engineering, Frontend Development, Artificial Intelligence, and Technical Content Creation. Recognized as **Student of the Year** during graduation for academic excellence, leadership, and overall contribution. Founder and creator of **Decode Bytes**, a technology-focused platform dedicated to helping students learn programming, AI, software development, and placement preparation.
+
+Focused on building impactful software products, continuously improving technical skills, and establishing a strong presence in the technology ecosystem through both development and content creation.
+
+---
+
+# Personal Information
+
+- Name: Bhumika Ladi
+- Degree: Bachelor of Computer Applications (BCA)
+- Academic Performance: CGPA 9.3
+- Achievement: Student of the Year
+- Current Status: Fresher
+- Career Goal: Software Engineer
+- Long-Term Vision: Build technology products that impact millions of users
+- Secondary Goal: Scale Decode Bytes into a leading educational technology brand
+
+---
+
+# Education
+
+## Bachelor of Computer Applications (BCA)
+
+### Highlights
+
+- Graduated with CGPA: 9.3
+- Awarded **Student of the Year**
+- Actively participated in technical and academic activities
+- Developed multiple software projects during academic journey
+
+---
+
+# Technical Skills
+
+## Languages
+
+- JavaScript
+- Python
+- Java
+- SQL
+
+---
+
+## Frontend Development
+
+- React.js
+- Vite
+- HTML5
+- CSS3
+- SCSS
+- Responsive Web Design
+- Component-Based Development
+
+---
+
+## Backend Development
+
+- Node.js
+- Express.js
+- REST APIs
+
+---
+
+## Databases
+
+- MySQL
+- MongoDB
+
+---
+
+## Development Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Chrome DevTools
+- npm
+- Yarn
+
+---
+
+# Core Computer Science Knowledge
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Software Engineering Principles
+
+---
+
+# Featured Project
+
+## Portfolio Operating System Clone
+
+### Overview
+
+Developed a desktop-inspired portfolio application that simulates a macOS-like operating system experience.
+
+### Features
+
+- Draggable Windows
+- Resizable Windows
+- Dynamic Window Management
+- Interactive User Interface
+- Reusable Components
+- Responsive Design
+
+### Technologies Used
+
+- React.js
+- Vite
+- SCSS
+- React-RND
+
+### Engineering Concepts Demonstrated
+
+- State Management
+- Component Reusability
+- Event Handling
+- UI Architecture
+- Third-Party Library Integration
+
+---
+
+# Entrepreneurial & Content Creation Experience
+
+## Founder & Creator — Decode Bytes
+
+### About Decode Bytes
+
+Decode Bytes is a technology-focused educational platform created to simplify complex technical concepts and help aspiring developers grow in their careers.
+
+### Content Areas
+
+- Programming
+- Software Development
+- Artificial Intelligence
+- Placement Preparation
+- Career Guidance
+- Developer Productivity
+- Technology Trends
+
+### Responsibilities
+
+- Content Strategy
+- Technical Research
+- Script Writing
+- Video Production
+- Audience Growth
+- Brand Building
+
+### Skills Developed
+
+- Communication
+- Public Speaking
+- Storytelling
+- Technical Research
+- Community Building
+- Personal Branding
+- Digital Marketing Fundamentals
+
+---
+
+# Leadership & Achievements
+
+## Student of the Year
+
+Recognized for:
+
+- Academic Excellence
+- Leadership Qualities
+- Active Participation
+- Consistent Performance
+- Overall Contribution to Student Community
+
+---
+
+## Founder of Decode Bytes
+
+Built and managed an independent educational technology brand focused on helping students and developers learn technical skills.
+
+---
+
+# Strengths
+
+## Technical Curiosity
+
+Continuously explores emerging technologies and industry trends.
+
+## Fast Learner
+
+Able to quickly adapt to new tools, frameworks, and development workflows.
+
+## Strong Communication
+
+Developed through content creation, presentations, and technical education.
+
+## Creative Problem Solver
+
+Enjoys designing innovative solutions and user-focused applications.
+
+## Growth Mindset
+
+Focused on continuous improvement through learning, experimentation, and execution.
+
+---
+
+# Areas of Current Focus
+
+- Advanced React Development
+- Data Structures & Algorithms
+- System Design Fundamentals
+- Full-Stack Development
+- Artificial Intelligence Applications
+- Technical Content Scaling through Decode Bytes
+
+---
+
+# Why I Am a Strong Candidate
+
+- Strong academic background (CGPA 9.3)
+- Student of the Year recognition
+- Practical software development experience
+- Founder of a technology education platform
+- Strong communication and presentation skills
+- Hands-on project development experience
+- Self-driven learner with entrepreneurial mindset
+- Long-term commitment to technology and innovation
+
+---
+
+# 60-Second Interview Introduction
+
+Hello, my name is Bhumika Ladi. I recently completed my BCA with a CGPA of 9.3 and was honored with the Student of the Year award. I am passionate about software engineering, particularly frontend development and building interactive web applications using React.
+
+Alongside my technical journey, I founded Decode Bytes, a technology-focused platform where I create content on programming, AI, software development, and career growth. This experience has strengthened not only my technical knowledge but also my communication, research, and leadership skills.
+
+I enjoy building real-world projects, continuously learning new technologies, and solving challenging problems. Currently, I am focused on strengthening my software engineering skills and contributing to an organization where I can learn, grow, and create meaningful impact through technology.
